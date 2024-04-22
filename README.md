@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tuankhoiutc260&label=Profile%20views&color=0e75b6&style=flat" alt="tuankhoiutc260" /> </p>
 
-- 🌱 I’m currently learning **Java FullStack**
+- 🌱 I’m currently learning and become to **Java FullStack**
 
 - 📫 How to reach me **ngtkhoi05@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/tuan-khoi-nguyen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/tuan-khoi-nguyen" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/tuan-khoi-nguyen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tuan-khoi-nguyen" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
