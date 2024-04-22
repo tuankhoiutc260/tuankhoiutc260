@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tuankhoiutc260&label=Profile%20views&color=0e75b6&style=flat" alt="tuankhoiutc260" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tuankhoiutc260" alt="tuankhoiutc260" /></a> </p>
-
 - 🌱 I’m currently learning and become to **Java FullStack**
 
 - 👨‍💻 All of my projects are available at [https://github.com/tuankhoiutc260/](https://github.com/tuankhoiutc260/)
