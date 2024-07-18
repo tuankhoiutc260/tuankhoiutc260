@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Tuan Khoi</h1>
-<h3 align="center">I'm a Fresher and I'm looking for Software Engineer Java job now!</h3>
+<h3 align="center">I'm a Developer and I'm looking for Software Engineer Java job now!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tuankhoiutc260&label=Profile%20views&color=0e75b6&style=flat" alt="tuankhoiutc260" /> </p>
 
